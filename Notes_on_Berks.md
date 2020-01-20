@@ -1,0 +1,3 @@
+- touch Berksfile
+- berks install
+- berks vendor
